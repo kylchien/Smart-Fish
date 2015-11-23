@@ -1,0 +1,10 @@
+﻿- print fitness avg etc
+- save file to xml
+- add different fitness for different bait
+  fitness should embed inside the bait
+
+
+
+  world render frame could be separated from World.update()
+  so update deal with model update
+  renderframe deal with draw frames
