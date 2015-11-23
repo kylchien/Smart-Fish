@@ -9,5 +9,4 @@ Please use .net 4.0 or newer version to compile
 <img src="http://i124.photobucket.com/albums/p24/moneypig/smart-fish.jpg" width=600>
 </body>
 
-This project was inspired by http://www.ai-junkie.com/ann .
-It is a wonderful site with lots of AI stuffs - go check it out :)
+This project was inspired by http://www.ai-junkie.com - it is a very cool site with lots of AI stuffs - go check it out :)
