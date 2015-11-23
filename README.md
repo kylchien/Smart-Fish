@@ -1,6 +1,6 @@
 # Smart-Fish
 <body>
-How to code complicated swimming pattern of fish? Well there is no need, because they will learn by themselves!
+How to program fish swimming pattern in a 2D world? Well there is no need, because they will learn by themselves!
 
 Observe the power of genetic algorithm while having a virtual aquarium on your machine~
 
