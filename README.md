@@ -1,12 +1,13 @@
 # Smart-Fish
 <body>
-Fish trained by genetic-algorithm/artificial neural network are not dumb!<br>
+How to code complicated swimming pattern of fish? Well there is no need, because they will learn by themselves!
 
-No need to code swimming pattern - fish evolve by themselves.<br>
+Observe the power of genetic algorithm while having a virtual aquarium on your screen~
 
-"Natural selection" - only the fish that swallow the most baits can reproduce offsprings.<br>
+Please use .net 4.0 or newer version to compile
 
-Please use .net 4.0 or newer version to compile.
-
-<img src="http://i124.photobucket.com/albums/p24/moneypig/smart-fish.jpg">
+<img src="http://i124.photobucket.com/albums/p24/moneypig/smart-fish.jpg" width=600>
 </body>
+
+This project was inspired by http://www.ai-junkie.com/ann .
+It is a wonderful site with lots of AI stuffs - go check it out :)
